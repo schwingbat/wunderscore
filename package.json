@@ -1,8 +1,8 @@
 {
   "name": "@schwingbat/wunderscore",
   "version": "1.0.0",
-  "description": "Extremely lightweight underscore-like utility library, with only the basics.",
-  "main": "index.js",
+  "description": "Extremely lightweight underscore-like utility library with only the basics.",
+  "main": "wunderscore.js",
   "scripts": {
     "test": "jest"
   },
