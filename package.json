@@ -1,6 +1,6 @@
 {
   "name": "@schwingbat/wunderscore",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "Extremely lightweight underscore-like utility library with only the basics.",
   "main": "wunderscore.js",
   "scripts": {
@@ -13,6 +13,8 @@
   "author": "Tony McCoy <tony@ratwizard.io>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^18.1.0"
+    "babel-jest": "^21.2.0",
+    "babel-preset-env": "^1.6.0",
+    "jest": "^21.2.1"
   }
 }
